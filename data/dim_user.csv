@@ -1,0 +1,16 @@
+user_id,branch_id,name,email,created_at
+U001,B001,John Smith,john.smith@email.com,10/03/24 8:00
+U002,B001,Emma Johnson,emma.j@email.com,12/03/24 14:30
+U003,B002,David Williams,david.w@email.com,15/03/24 10:45
+U004,B002,Sarah Brown,sarah.b@email.com,18/03/24 16:20
+U005,B003,Miguel Lopez,m.lopez@email.com,20/03/24 9:15
+U006,B003,Sofia Garcia,s.garcia@email.com,22/03/24 11:30
+U007,B004,Takashi Yamada,t.yamada@email.com,25/03/24 8:45
+U008,B004,Yuki Tanaka,y.tanaka@email.com,28/03/24 15:10
+U009,B005,James Wilson,j.wilson@email.com,01/04/24 9:00
+U010,B005,Olivia Martin,o.martin@email.com,03/04/24 13:45
+U011,B001,Robert Johnson,r.johnson@email.com,05/04/24 10:15
+U012,B002,Anna Miller,a.miller@email.com,07/04/24 14:45
+U013,B003,Carlos Rodriguez,c.rodriguez@email.com,09/04/24 11:30
+U014,B004,Hana Sato,h.sato@email.com,11/04/24 15:20
+U015,B005,Thomas White,t.white@email.com,13/04/24 9:45

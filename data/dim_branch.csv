@@ -1,0 +1,6 @@
+branch_id,name,email,city,country,timezone_id,created_at
+B001,Downtown Fitness,downtown@abcfitness.com,New York,USA,America/New_York,01/01/24 12:00
+B002,West End Gym,westend@abcfitness.com,London,UK,Europe/London,15/01/24 9:30
+B003,Centro Athletic Club,centro@abcfitness.com,Madrid,Spain,Europe/Madrid,01/02/24 14:45
+B004,Eastern Heights,eastern@abcfitness.com,Tokyo,Japan,Asia/Tokyo,10/02/24 8:15
+B005,Harbor Fitness,harbor@abcfitness.com,Sydney,Australia,Australia/Sydney,05/03/24 16:20
