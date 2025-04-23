@@ -1,0 +1,12 @@
+2025-04-23 22:39:34,151 - __main__ - INFO - Running full pipeline (Part 1 and Part 2)
+2025-04-23 22:39:34,151 - __main__ - INFO - Loaded 100 rows from data/dim_user.csv
+2025-04-23 22:39:34,153 - __main__ - INFO - Loaded 178 rows from data/fct_credit_pack_purchases.csv
+2025-04-23 22:39:34,153 - __main__ - WARNING - Failed to parse JSON in field 'membership_purchase_details': NULL
+2025-04-23 22:39:34,155 - __main__ - INFO - Loaded 368 rows from data/fct_membership_purchases.csv
+2025-04-23 22:39:34,155 - __main__ - INFO - Processed credit packs: found 68 unique users with credit pack purchases
+2025-04-23 22:39:34,156 - __main__ - INFO - Processed memberships: found 80 unique users with membership purchases
+2025-04-23 22:39:34,157 - __main__ - INFO - Created 100 client conversion events (91 CLIENTs, 9 LEADs)
+2025-04-23 22:39:34,157 - __main__ - INFO - Created 239 lead conversion records (80 MEMBERSHIP, 68 USER_CREDIT, 91 ALL)
+2025-04-23 22:39:34,157 - __main__ - INFO - Lead conversions generated from Part 1: 239
+2025-04-23 22:39:34,158 - __main__ - INFO - Saved 100 rows to outputs/fct_client_conversion_events.csv
+2025-04-23 22:39:34,160 - __main__ - INFO - Saved 239 rows to outputs/fct_lead_conversions.csv
